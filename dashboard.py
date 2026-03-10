@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Dashboard", layout="wide")
 
 # Title
-st.title("Sample Dashboard")
+st.title("Sample  AvivDashboard")
 
 # Sidebar
 st.sidebar.header("Filters")
